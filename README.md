@@ -18,9 +18,9 @@ You can use any of the following tech stack
 - FERN (firebase, express, react, node)
 - MERN (mongoDB, express, react, node)
 
-###### What to include in proposals?
+###### What to include in proposals ?
 
-Apart from your details and your experience. You should include the following in your proposal:-
+Apart from your personal details and your experience. You should include the following in your proposal :-
 
 - Your understanding about the project idea.
 - List of ideas you want to implement and a brief description of your approach.
