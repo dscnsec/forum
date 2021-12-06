@@ -20,9 +20,9 @@ You can use any of the following tech stack
 
 #### Possible Mentor
 
-- Suvadeep Maity - [LinkedIn](https://www.linkedin.com/in/suvadeep-maity-392a881a7)
-- Dipikesh Kumar - [LinkedIn](https://www.linkedin.com/in/dipikesh-kumar-465b111b1)
-- Shreya Bag
+- Suvadeep Maity - [LinkedIn](https://www.linkedin.com/in/suvadeep-maity-392a881a7) , [Mail](mailto:suvadeepmaity18@gmail.com) , [Telegram](https://t.me/suvadeep2001)
+- Dipikesh Kumar - [LinkedIn](https://www.linkedin.com/in/dipikesh-kumar-465b111b1) , [Telegram](https://t.me/dipikesh)
+- Shreya Bag - [LinkedIn](https://www.linkedin.com/in/shreya-bag-278314192/)
 
 For any queries, join [Whatsapp group](https://chat.whatsapp.com/H0IfxGdH2HN44JGJV40JcW).
 
