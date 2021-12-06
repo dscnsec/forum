@@ -11,14 +11,19 @@ The idea is to make a PWA enabled web app for discussion so that mobile users an
 - Users should be able to block a particular user and can subscribe to a particular thread.
 - The app should be responsive.
 
-##### Tech Stacks 
+#### Tech Stacks 
 
 You can use any of the following tech stack
 
 - FERN (firebase, express, react, node)
 - MERN (mongoDB, express, react, node)
 
-###### What to include in proposals ?
+#### Possible Mentor
+
+- Suvadeep Maity
+- Dipikesh Kumar
+
+#### What to include in proposals ?
 
 Apart from your personal details and your experience. You should include the following in your proposal :-
 
