@@ -20,8 +20,8 @@ You can use any of the following tech stack
 
 #### Possible Mentor
 
-- Suvadeep Maity [LinkedIn](https://www.linkedin.com/in/suvadeep-maity-392a881a7)
-- Dipikesh Kumar [LinkedIn](https://www.linkedin.com/in/dipikesh-kumar-465b111b1)
+- Suvadeep Maity - [LinkedIn](https://www.linkedin.com/in/suvadeep-maity-392a881a7)
+- Dipikesh Kumar - [LinkedIn](https://www.linkedin.com/in/dipikesh-kumar-465b111b1)
 - Shreya Bag
 
 For any queries, join [Whatsapp group](https://chat.whatsapp.com/H0IfxGdH2HN44JGJV40JcW).
