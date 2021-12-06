@@ -22,6 +22,7 @@ You can use any of the following tech stack
 
 - Suvadeep Maity
 - Dipikesh Kumar
+- Shreya Bag
 
 #### What to include in proposals ?
 
