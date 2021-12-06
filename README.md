@@ -24,6 +24,8 @@ You can use any of the following tech stack
 - Dipikesh Kumar
 - Shreya Bag
 
+For any queries, join [Whatsapp group](https://chat.whatsapp.com/H0IfxGdH2HN44JGJV40JcW).
+
 #### What to include in proposals ?
 
 Apart from your personal details and your experience. You should include the following in your proposal :-
